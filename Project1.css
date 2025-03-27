@@ -18,7 +18,7 @@
         }
         #search {
             min-height: 80vh;
-            background: url('image/estates.jpeg');
+            background: url('estates.jpeg');
             background-size: cover;
             background-attachment: scroll;
             place-content: center
